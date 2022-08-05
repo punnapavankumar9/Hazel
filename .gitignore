@@ -1,0 +1,6 @@
+# ignored files to push into git
+
+.vs/
+bin/
+bin-int/
+*.user
