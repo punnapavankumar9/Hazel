@@ -13,5 +13,5 @@ public:
 
 
 Hazel::Application* Hazel::CreateApplication() {
-	return new Hazel::Application();
+	return new Sandbox();
 }
